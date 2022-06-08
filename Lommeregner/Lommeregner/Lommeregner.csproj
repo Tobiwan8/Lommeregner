@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{129C566B-3FBD-4B21-BC71-9A25371C8B08}</ProjectGuid>
+    <ProjectGuid>{53FA4D02-F779-4479-B199-206B44E55EB9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
     <RootNamespace>Lommeregner</RootNamespace>
     <AssemblyName>Lommeregner</AssemblyName>

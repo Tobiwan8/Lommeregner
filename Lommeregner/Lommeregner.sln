@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lommeregner", "Lommeregner\Lommeregner.csproj", "{129C566B-3FBD-4B21-BC71-9A25371C8B08}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lommeregner", "Lommeregner\Lommeregner.csproj", "{53FA4D02-F779-4479-B199-206B44E55EB9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{129C566B-3FBD-4B21-BC71-9A25371C8B08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{129C566B-3FBD-4B21-BC71-9A25371C8B08}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{129C566B-3FBD-4B21-BC71-9A25371C8B08}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{129C566B-3FBD-4B21-BC71-9A25371C8B08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{53FA4D02-F779-4479-B199-206B44E55EB9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{53FA4D02-F779-4479-B199-206B44E55EB9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{53FA4D02-F779-4479-B199-206B44E55EB9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{53FA4D02-F779-4479-B199-206B44E55EB9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {654E4BF5-7709-4D15-98CA-ED29E487CCC2}
+		SolutionGuid = {3ABE2308-975E-42DD-B512-A98D554E5D26}
 	EndGlobalSection
 EndGlobal
