@@ -29,14 +29,14 @@ namespace Lommeregner
             isOperationPerformed = false;
             Button button = (Button)sender;
 
-            /*if (button.Text == ".")
+            if (button.Text == ".")
             {
                 if(!txt_tekst.Text.Contains("."))
                 {
                     txt_tekst.Text += button.Text;
                 }
             }
-            else*/
+            else
             txt_tekst.Text += button.Text;
         }
 
