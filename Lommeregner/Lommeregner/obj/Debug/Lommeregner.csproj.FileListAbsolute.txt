@@ -1,0 +1,11 @@
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe.config
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\bin\Debug\Lommeregner.exe
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\bin\Debug\Lommeregner.pdb
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.AssemblyReference.cache
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.SuggestedBindingRedirects.cache
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\obj\Debug\Lommeregner.Form1.resources
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\obj\Debug\Lommeregner.Properties.Resources.resources
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.GenerateResource.cache
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\obj\Debug\Lommeregner.csproj.CoreCompileInputs.cache
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\obj\Debug\Lommeregner.exe
+C:\Users\toblar\Desktop\forSjov\Lommeregner\Lommeregner\obj\Debug\Lommeregner.pdb
