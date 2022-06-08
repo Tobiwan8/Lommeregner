@@ -17,14 +17,5 @@ namespace Lommeregner
             InitializeComponent();
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void textBox_screen_TextChanged(object sender, EventArgs e)
-        {
-            textBox_screen.Text = "1";
-        }
     }
 }
