@@ -29,9 +29,9 @@ namespace Lommeregner
             isOperationPerformed = false;
             Button button = (Button)sender;
 
-            if (button.Text == ".")
+            if (button.Text == ",")
             {
-                if(!txt_tekst.Text.Contains("."))
+                if(!txt_tekst.Text.Contains(","))
                 {
                     txt_tekst.Text += button.Text;
                 }
@@ -43,10 +43,22 @@ namespace Lommeregner
         private void Operator_click(object sender, EventArgs e)
         {
             Button button = (Button)sender;
+
+            if(resultValue != 0)
+            {
+                btn_equals.PerformClick();
+                operationPerformed = button.Text;
+                resultValue = double.Parse(txt_tekst.Text);
+                lbl_currentOperation.Text = resultValue + " " + operationPerformed;
+                isOperationPerformed = true;
+            }
+            else
+
             operationPerformed = button.Text;
             resultValue = double.Parse(txt_tekst.Text);
             lbl_currentOperation.Text = resultValue + " " + operationPerformed;
             isOperationPerformed = true;
+
         }
 
         private void ClearEverything(object sender, EventArgs e)
@@ -79,6 +91,8 @@ namespace Lommeregner
                 default:
                     break;
             }
+            resultValue = double.Parse(txt_tekst.Text);
+            lbl_currentOperation.Text = "";
         }
     }
 }

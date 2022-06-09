@@ -254,7 +254,7 @@
             this.btn_punct.Name = "btn_punct";
             this.btn_punct.Size = new System.Drawing.Size(45, 45);
             this.btn_punct.TabIndex = 17;
-            this.btn_punct.Text = ".";
+            this.btn_punct.Text = ",";
             this.btn_punct.UseVisualStyleBackColor = true;
             this.btn_punct.Click += new System.EventHandler(this.Button_Click);
             // 
